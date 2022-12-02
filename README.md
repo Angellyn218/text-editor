@@ -33,7 +33,13 @@ You will be greeted by the home screen.
 
 You can add whatever text you want to it. The styling of any code will automatically be styled. It will even work offline.
 
-If you want to download the application, you can press the install button. This will bring up a prompt. Once ok is pressed on the prompt, the application will be installed locally on your computer
+If you want to download the application, you can press the install button. This will bring up a prompt. 
+
+![picture of installation prompt](assets/images/prompt.png)
+
+If install is pressed on the prompt, the application will be installed locally on your computer.
+
+![picture of installated application](assets/images/installed-app.png)
 
 
 ## Credits
